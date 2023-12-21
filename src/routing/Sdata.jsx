@@ -8,11 +8,11 @@ import android from "../images/android.jpeg";
 const Sdata = [
     {
         imgsrc: web,
-        title:"Web Devlopment"
+        title:"Web Development"
     },
     {
         imgsrc: app,
-        title:"App Devlopment"
+        title:"App Development"
     },
     {
         imgsrc: machine,
