@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Reactlive/static/css/main.99b29267.css",
+    "main.js": "/Reactlive/static/js/main.83acbdd7.js",
+    "static/media/management.png": "/Reactlive/static/media/management.78ef3b8786e970afb69c.png",
+    "static/media/market.jpg": "/Reactlive/static/media/market.025fd4fff04ffb46954c.jpg",
+    "static/media/react-native.png": "/Reactlive/static/media/react-native.289b75212b53e4fccd33.png",
+    "static/media/web.jpg": "/Reactlive/static/media/web.ca55a691bb9f2b540508.jpg",
+    "static/media/machine.avif": "/Reactlive/static/media/machine.2afd60eed1efa63cdf48.avif",
+    "static/media/digit_marketing.avif": "/Reactlive/static/media/digit_marketing.a2889b0a5273d468f1d9.avif",
+    "index.html": "/Reactlive/index.html",
+    "main.99b29267.css.map": "/Reactlive/static/css/main.99b29267.css.map",
+    "main.83acbdd7.js.map": "/Reactlive/static/js/main.83acbdd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99b29267.css",
+    "static/js/main.83acbdd7.js"
+  ]
+}
