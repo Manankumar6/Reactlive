@@ -1,0 +1,44 @@
+
+.navbar li a.active{
+  color: rgb(131, 208, 241);
+  border-bottom: 2px solid red;
+ filter: drop-shadow(0 1px 10px  red);
+}
+.navbar li a {
+  text-decoration: none;
+  font-size: 30px;
+  
+  color: aliceblue;
+  
+}
+.navbar li{
+  list-style: none;
+  margin: 0 50px;
+}
+
+.navbar{
+  background-color: rgb(23, 35, 66);
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid black;
+
+
+}
+.search_bar{
+  width: 50%;
+  height: auto;
+  margin: 0 auto;
+  text-align: center;
+}
+.search_bar input{
+  margin: 30px 0;
+  padding: 5px 10px;
+  border-radius: 5px;
+
+}
+.image_container{
+  width: 500px;
+  margin: 0 auto;
+  align-items: center;
+}
